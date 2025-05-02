@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288920102422483482/2aa99e46420544789e9b4735024f7ffe/artifacts
+end_time: 1745274541209
+entry_point_name: ''
+experiment_id: '288920102422483482'
+lifecycle_stage: active
+run_id: 2aa99e46420544789e9b4735024f7ffe
+run_name: big-quail-447
+run_uuid: 2aa99e46420544789e9b4735024f7ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745274519734
+status: 3
+tags: []
+user_id: kovi

@@ -1,0 +1,9 @@
+artifact_location: /Users/kovi/Downloads/mlflow/mlruns
+creation_time: 1745352354298
+experiment_id: '741723625147966713'
+last_update_time: 1745373520597
+lifecycle_stage: deleted
+name: client_tutorial
+tags:
+  api_tag: 'True'
+  source: client

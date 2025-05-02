@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288920102422483482/1851568f29924df9951ef1c3c0ce33cf/artifacts
+end_time: 1745274578038
+entry_point_name: ''
+experiment_id: '288920102422483482'
+lifecycle_stage: active
+run_id: 1851568f29924df9951ef1c3c0ce33cf
+run_name: salty-fish-206
+run_uuid: 1851568f29924df9951ef1c3c0ce33cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745274575254
+status: 3
+tags: []
+user_id: kovi

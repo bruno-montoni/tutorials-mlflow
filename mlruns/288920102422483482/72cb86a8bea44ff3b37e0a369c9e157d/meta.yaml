@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288920102422483482/72cb86a8bea44ff3b37e0a369c9e157d/artifacts
+end_time: 1745274563438
+entry_point_name: ''
+experiment_id: '288920102422483482'
+lifecycle_stage: active
+run_id: 72cb86a8bea44ff3b37e0a369c9e157d
+run_name: thundering-mink-27
+run_uuid: 72cb86a8bea44ff3b37e0a369c9e157d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745274560483
+status: 3
+tags: []
+user_id: kovi

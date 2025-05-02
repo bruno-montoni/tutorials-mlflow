@@ -1,0 +1,83 @@
+digest: c2582901
+name: dataset
+profile: '{"num_rows": 811, "num_elements": 74612}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "dias_primeira_iteracao_life",
+  "required": true}, {"type": "long", "name": "dias_ultima_iteracao_life", "required":
+  true}, {"type": "long", "name": "qtd_iteracoes_life", "required": true}, {"type":
+  "long", "name": "saldo_atual_life", "required": true}, {"type": "long", "name":
+  "pontos_acum_life", "required": true}, {"type": "long", "name": "pontos_neg_life",
+  "required": true}, {"type": "long", "name": "frequencia_life", "required": true},
+  {"type": "double", "name": "pontos_acum_dia_life", "required": true}, {"type": "long",
+  "name": "qtd_mensagens_life", "required": true}, {"type": "long", "name": "qtd_resgate_poneis_life",
+  "required": true}, {"type": "double", "name": "mensagens_dia_life", "required":
+  true}, {"type": "double", "name": "pct_transacao_dia01_life", "required": true},
+  {"type": "double", "name": "pct_transacao_dia02_life", "required": true}, {"type":
+  "double", "name": "pct_transacao_dia03_life", "required": true}, {"type": "double",
+  "name": "pct_transacao_dia04_life", "required": true}, {"type": "double", "name":
+  "pct_transacao_dia05_life", "required": true}, {"type": "double", "name": "pct_transacao_dia06_life",
+  "required": true}, {"type": "double", "name": "pct_transacao_dia07_life", "required":
+  true}, {"type": "double", "name": "pct_transacao_manha_life", "required": true},
+  {"type": "double", "name": "pct_transacao_tarde_life", "required": true}, {"type":
+  "double", "name": "pct_transacao_noite_life", "required": true}, {"type": "double",
+  "name": "media_dias_recorrencia_life", "required": false}, {"type": "double", "name":
+  "mediana_dias_recorrencia_life", "required": false}, {"type": "double", "name":
+  "dias_primeira_iteracao_d7", "required": false}, {"type": "double", "name": "dias_ultima_iteracao_d7",
+  "required": false}, {"type": "double", "name": "qtd_iteracoes_d7", "required": false},
+  {"type": "double", "name": "saldo_atual_d7", "required": false}, {"type": "double",
+  "name": "pontos_acum_d7", "required": false}, {"type": "double", "name": "pontos_neg_d7",
+  "required": false}, {"type": "double", "name": "frequencia_d7", "required": false},
+  {"type": "double", "name": "pontos_acum_dia_d7", "required": false}, {"type": "double",
+  "name": "qtd_mensagens_d7", "required": false}, {"type": "double", "name": "qtd_resgate_poneis_d7",
+  "required": false}, {"type": "double", "name": "mensagens_dia_d7", "required": false},
+  {"type": "double", "name": "pct_transacao_dia01_d7", "required": false}, {"type":
+  "double", "name": "pct_transacao_dia02_d7", "required": false}, {"type": "double",
+  "name": "pct_transacao_dia03_d7", "required": false}, {"type": "double", "name":
+  "pct_transacao_dia04_d7", "required": false}, {"type": "double", "name": "pct_transacao_dia05_d7",
+  "required": false}, {"type": "double", "name": "pct_transacao_dia06_d7", "required":
+  false}, {"type": "double", "name": "pct_transacao_dia07_d7", "required": false},
+  {"type": "double", "name": "pct_transacao_manha_d7", "required": false}, {"type":
+  "double", "name": "pct_transacao_tarde_d7", "required": false}, {"type": "double",
+  "name": "pct_transacao_noite_d7", "required": false}, {"type": "double", "name":
+  "media_dias_recorrencia_d7", "required": false}, {"type": "double", "name": "mediana_dias_recorrencia_d7",
+  "required": false}, {"type": "double", "name": "dias_primeira_iteracao_d14", "required":
+  false}, {"type": "double", "name": "dias_ultima_iteracao_d14", "required": false},
+  {"type": "double", "name": "qtd_iteracoes_d14", "required": false}, {"type": "double",
+  "name": "saldo_atual_d14", "required": false}, {"type": "double", "name": "pontos_acum_d14",
+  "required": false}, {"type": "double", "name": "pontos_neg_d14", "required": false},
+  {"type": "double", "name": "frequencia_d14", "required": false}, {"type": "double",
+  "name": "pontos_acum_dia_d14", "required": false}, {"type": "double", "name": "qtd_mensagens_d14",
+  "required": false}, {"type": "double", "name": "qtd_resgate_poneis_d14", "required":
+  false}, {"type": "double", "name": "mensagens_dia_d14", "required": false}, {"type":
+  "double", "name": "pct_transacao_dia01_d14", "required": false}, {"type": "double",
+  "name": "pct_transacao_dia02_d14", "required": false}, {"type": "double", "name":
+  "pct_transacao_dia03_d14", "required": false}, {"type": "double", "name": "pct_transacao_dia04_d14",
+  "required": false}, {"type": "double", "name": "pct_transacao_dia05_d14", "required":
+  false}, {"type": "double", "name": "pct_transacao_dia06_d14", "required": false},
+  {"type": "double", "name": "pct_transacao_dia07_d14", "required": false}, {"type":
+  "double", "name": "pct_transacao_manha_d14", "required": false}, {"type": "double",
+  "name": "pct_transacao_tarde_d14", "required": false}, {"type": "double", "name":
+  "pct_transacao_noite_d14", "required": false}, {"type": "double", "name": "media_dias_recorrencia_d14",
+  "required": false}, {"type": "double", "name": "mediana_dias_recorrencia_d14", "required":
+  false}, {"type": "long", "name": "dias_primeira_iteracao_d28", "required": true},
+  {"type": "long", "name": "dias_ultima_iteracao_d28", "required": true}, {"type":
+  "long", "name": "qtd_iteracoes_d28", "required": true}, {"type": "long", "name":
+  "saldo_atual_d28", "required": true}, {"type": "long", "name": "pontos_acum_d28",
+  "required": true}, {"type": "long", "name": "pontos_neg_d28", "required": true},
+  {"type": "long", "name": "frequencia_d28", "required": true}, {"type": "double",
+  "name": "pontos_acum_dia_d28", "required": true}, {"type": "long", "name": "qtd_mensagens_d28",
+  "required": true}, {"type": "long", "name": "qtd_resgate_poneis_d28", "required":
+  true}, {"type": "double", "name": "mensagens_dia_d28", "required": true}, {"type":
+  "double", "name": "pct_transacao_dia01_d28", "required": true}, {"type": "double",
+  "name": "pct_transacao_dia02_d28", "required": true}, {"type": "double", "name":
+  "pct_transacao_dia03_d28", "required": true}, {"type": "double", "name": "pct_transacao_dia04_d28",
+  "required": true}, {"type": "double", "name": "pct_transacao_dia05_d28", "required":
+  true}, {"type": "double", "name": "pct_transacao_dia06_d28", "required": true},
+  {"type": "double", "name": "pct_transacao_dia07_d28", "required": true}, {"type":
+  "double", "name": "pct_transacao_manha_d28", "required": true}, {"type": "double",
+  "name": "pct_transacao_tarde_d28", "required": true}, {"type": "double", "name":
+  "pct_transacao_noite_d28", "required": true}, {"type": "double", "name": "media_dias_recorrencia_d28",
+  "required": false}, {"type": "double", "name": "mediana_dias_recorrencia_d28", "required":
+  false}]}'
+source: '{"tags": {"mlflow.user": "kovi", "mlflow.source.name": "/Users/kovi/Downloads/mlflow/.mlflow_venv/lib/python3.9/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,9 @@
+aliases:
+  best: '1'
+creation_timestamp: 1745247808775
+description: '### Churn Model Tutorial ###
+
+
+  This is the `teomewhy` churn model for the `MLflow` tutorial. Repo [here](https://github.com/TeoMeWhy/curso-mflow/tree/main/model_churn).'
+last_updated_timestamp: 1745276860207
+name: tutorial_churn

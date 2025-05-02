@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745275155331
+current_stage: None
+description: ''
+last_updated_timestamp: 1745275155331
+name: tutorial_churn
+run_id: 72cb86a8bea44ff3b37e0a369c9e157d
+run_link: ''
+source: mlflow-artifacts:/288920102422483482/72cb86a8bea44ff3b37e0a369c9e157d/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/288920102422483482/72cb86a8bea44ff3b37e0a369c9e157d/artifacts/model
+user_id: null
+version: 1
